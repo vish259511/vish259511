@@ -41,51 +41,6 @@ I enjoy solving complex engineering problems, improving application performance,
 
 ---
 
-## 🌾 Featured Work
-
-### TELUS Agronomy Software
-
-Digital agronomy and field-management software supporting agricultural teams with:
-
-- 🌱 Crop planning & digital records
-- 📍 Field scouting
-- 🧪 Soil sampling workflows
-- 🚜 Agricultural machine data
-- 📊 Insights & analytics
-- 🔗 Enterprise integrations
-
-**My role:** Application Development Lead  
-**Team:** 5 developers  
-**Technology:** React Native · Expo · REST APIs
-
----
-
-## 📱 Other Projects
-
-### TechX
-React Native field-service application with real-time location tracking and fleet management.
-
-**Tech:** React Native · Redux · Redux-Saga
-
-### Pleb
-Dating application with real-time messaging and notifications.
-
-**Role:** Led a team of 5 developers.
-
-### ClassCalc
-ReactJS web portal and React Native mobile application for classroom calculations and learning.
-
-### FoodJam
-Food video blogging application involving video SDK integrations and media processing.
-
-### Zippee
-Interactive learning and quiz application featuring e-learning, assignments, video playback, notifications and analytics.
-
-### Fleet Platform
-Mobile and web applications for logistics, vehicle tracking and workforce management.
-
----
-
 ## 💼 Professional Experience
 
 **Application Development Lead — TELUS Digital**  
@@ -139,7 +94,7 @@ Great User Experience
 https://www.linkedin.com/in/vishal-rawat-a1573ab7/
 
 💻 **GitHub:**  
-https://github.com/vish2595
+https://github.com/vish259511
 
 🌐 **Portfolio:**  
 Add your GitHub Pages portfolio link here.
