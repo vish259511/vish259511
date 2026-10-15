@@ -97,7 +97,7 @@ https://www.linkedin.com/in/vishal-rawat-a1573ab7/
 https://github.com/vish259511
 
 🌐 **Portfolio:**  
-Add your GitHub Pages portfolio link here.
+https://vish259511.github.io/vishal-portfolio/
 
 ---
 
